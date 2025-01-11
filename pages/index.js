@@ -24,6 +24,9 @@ export default function Index() {
   const router = useRouter();
 
   function handleButtonClick() {
+    // play button click sound effect
+    const audio = new Audio('./button-click-2.mp3');
+    audio.play();
     router.push('/game')
   }
 

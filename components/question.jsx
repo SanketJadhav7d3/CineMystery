@@ -53,8 +53,19 @@ export default function Question() {
 
     const dialogRef = useRef(null);
 
-    const showDialog = () => {
+    const showDialog = (correct) => {
         if (!dialogRef.current) return;
+        var audio = null; 
+
+        var filePath = null;
+        if (correct) {
+            filePath = '/button-click-3.mp3'
+        } else {
+            filePath = '/wrong-answer.mp3'
+        }
+
+        audio = new Audio(filePath);
+        audio.play();
         dialogRef.current.showModal();
     }
 
@@ -62,12 +73,13 @@ export default function Question() {
         setShowConfitee(true);
     }
 
-
     function handleOptionClick(option) {
+
+        // play sound
         if (option === correctAnswer) {
-            console.log('right answer')
             startConfetti();
         }
+
         // make the correct button green and rest red
         // find the index of the correct option
         const correctIndex = options.indexOf(correctAnswer);
@@ -82,7 +94,7 @@ export default function Question() {
 
         setIsCorrent(option === correctAnswer)
         // show dialog
-        showDialog();
+        showDialog(option === correctAnswer);
     }
 
     const fetchQuestion = async () => {
