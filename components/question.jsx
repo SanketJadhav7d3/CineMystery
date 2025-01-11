@@ -5,6 +5,7 @@ import '../styles/loading-animation.css';
 import Confitte from "react-confetti";
 import movies from './movies';
 import { RiSkipRightLine } from "react-icons/ri";
+import React from 'react';
 
 
 function OptionButton({ option, onOptionClick, optionState }) {
@@ -40,6 +41,9 @@ export default function Question() {
     const [isLoading, setIsLoading] = useState(false);
     const [showConfetti, setShowConfitee] = useState(false);
     const [isCorrect, setIsCorrent] = useState(null);
+
+    const [totalQuestions, setTotalQuestions] = useState(0);
+    const [totalCorrectQuestions, setTotalCorrectQuestions] = useState(0);
 
     // white - not choosen
     // green - correct
@@ -78,6 +82,8 @@ export default function Question() {
         // play sound
         if (option === correctAnswer) {
             startConfetti();
+            // increment the correct question count 
+            setTotalCorrectQuestions(totalCorrectQuestions + 1);
         }
 
         // make the correct button green and rest red
@@ -88,6 +94,10 @@ export default function Question() {
             if (i == correctIndex) optionsState_[i] = 'green';
             else optionsState_[i] = 'red';
         }
+
+        // update total questions solved 
+        setTotalQuestions(totalQuestions + 1);
+
         // console.log(options);
         // console.log(optionsState_);
         setOptionsState(optionsState_);
@@ -131,7 +141,27 @@ export default function Question() {
         });
     }
 
+    // update session storage whenever the state count changes
     useEffect(() => {
+        sessionStorage.setItem('totalCorrectQuestionSolved', totalCorrectQuestions);
+    }, [totalCorrectQuestions]);
+
+    // same as above
+    useEffect(() => {
+        sessionStorage.setItem('totalQuestionSolved', totalQuestions);
+        const questionSolved = sessionStorage.getItem('totalQuestionSolved');
+
+        console.log('stored value', questionSolved);
+
+    }, [totalQuestions]);
+
+    useEffect(() => {
+        const questionSolved = sessionStorage.getItem('totalQuestionSolved');
+        setTotalQuestions(questionSolved ? parseInt(questionSolved) : 0);
+
+        const correctQuestions = sessionStorage.getItem('totalCorrectQuestionSolved');
+        setTotalCorrectQuestions(correctQuestions ? parseInt(correctQuestions) : 0);
+
         fetchQuestion();
     }, []);
 
@@ -176,7 +206,7 @@ export default function Question() {
 
             <div id="stats-container">
                 <div id="stats">
-                    total questions solved correctly / total questions next question
+                    {totalCorrectQuestions} / {totalQuestions}
                 </div>
                 <RiSkipRightLine size={50} className='gradient-icon' onClick={fetchQuestion}/>
             </div>
