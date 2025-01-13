@@ -11,7 +11,7 @@ Cinemystery is a movie guessing game that challenges your film knowledge through
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/cinemystery.git
+git clone https://github.com/SanketJadhav7d3/CineMystery.git
 cd cinemystery
 ```
 
