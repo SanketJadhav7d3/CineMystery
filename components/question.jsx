@@ -6,6 +6,7 @@ import '../styles/dropup.css';
 import '../styles/toggle.css';
 import Confitte from "react-confetti";
 import { RiSkipRightLine } from "react-icons/ri";
+import { FiVolumeX, FiVolume2 } from "react-icons/fi";
 import React from 'react';
 import moviesData from './movies.json';
 
@@ -49,6 +50,12 @@ export default function Question() {
     const [totalCorrectQuestions, setTotalCorrectQuestions] = useState(0);
 
     const [movie, setMovie] = useState({});
+
+    const [isMusic, setMusic] = useState(true);
+
+    const toggleMusic = () => {
+        setMusic(!isMusic);
+    }
 
 
     // white - not choosen
@@ -97,8 +104,11 @@ export default function Question() {
             filePath = '/wrong-answer.mp3'
         }
 
-        audio = new Audio(filePath);
-        audio.play();
+        // play only if enabled
+        if (isMusic) {
+            audio = new Audio(filePath);
+            audio.play();
+        }
 
         // make the correct button green and rest red
         // find the index of the correct option
@@ -230,8 +240,10 @@ export default function Question() {
                 </div>
 
                 <label class="toggle-container">
-                    <input type="checkbox" />
-                    <span class="slider"></span>
+                    <input type="checkbox" checked={isMusic} onChange={toggleMusic}/>
+                    <span class="slider">
+                        {isMusic ? <FiVolume2 color='#000' /> : <FiVolumeX />}
+                    </span>
                 </label>
 
                 <RiSkipRightLine size={50} className='gradient-icon' onClick={fetchQuestion}/>
