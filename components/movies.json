@@ -1,0 +1,2172 @@
+[
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 762509,
+        "title": "Mufasa: The Lion King",
+        "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+        "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "genre_ids": [
+            12,
+            10751,
+            16
+        ]
+    },
+    {
+        "id": 558449,
+        "title": "Gladiator II",
+        "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ]
+    },
+    {
+        "id": 1241982,
+        "title": "Moana 2",
+        "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ]
+    },
+    {
+        "id": 402431,
+        "title": "Wicked",
+        "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+        "genre_ids": [
+            18,
+            10749,
+            14
+        ]
+    },
+    {
+        "id": 839033,
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "poster_path": "/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
+        "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+        "genre_ids": [
+            16,
+            14,
+            28,
+            12
+        ]
+    },
+    {
+        "id": 1156593,
+        "title": "Your Fault",
+        "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+        "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 845781,
+        "title": "Red One",
+        "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+        "genre_ids": [
+            28,
+            14,
+            35
+        ]
+    },
+    {
+        "id": 970450,
+        "title": "Werewolves",
+        "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+        "overview": "A year after a supermoon\u2019s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+        "genre_ids": [
+            28,
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1035048,
+        "title": "Elevation",
+        "poster_path": "/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg",
+        "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+        "genre_ids": [
+            28,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1005331,
+        "title": "Carry-On",
+        "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+        "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+        "genre_ids": [
+            53,
+            28
+        ]
+    },
+    {
+        "id": 1214667,
+        "title": "Making Squid Game: The Challenge",
+        "poster_path": "/78yTLvtsMntVN1cLfzBuZj870pe.jpg",
+        "overview": "Go behind the scenes and witness how the \"Squid Game\"-inspired reality show transformed from a scripted drama to a cutthroat, nail-biting competition.",
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 933260,
+        "title": "The Substance",
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "genre_ids": [
+            27,
+            878
+        ]
+    },
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ]
+    },
+    {
+        "id": 1010581,
+        "title": "My Fault",
+        "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1235623,
+        "title": "Eye for an Eye 2",
+        "poster_path": "/lxGkinl8TwFdIUffEdTOw95lKL7.jpg",
+        "overview": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
+        "genre_ids": [
+            28,
+            18
+        ]
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "poster_path": "/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            10751
+        ]
+    },
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 762509,
+        "title": "Mufasa: The Lion King",
+        "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+        "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "genre_ids": [
+            12,
+            10751,
+            16
+        ]
+    },
+    {
+        "id": 558449,
+        "title": "Gladiator II",
+        "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ]
+    },
+    {
+        "id": 1241982,
+        "title": "Moana 2",
+        "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ]
+    },
+    {
+        "id": 402431,
+        "title": "Wicked",
+        "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+        "genre_ids": [
+            18,
+            10749,
+            14
+        ]
+    },
+    {
+        "id": 839033,
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "poster_path": "/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
+        "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+        "genre_ids": [
+            16,
+            14,
+            28,
+            12
+        ]
+    },
+    {
+        "id": 1156593,
+        "title": "Your Fault",
+        "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+        "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 845781,
+        "title": "Red One",
+        "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+        "genre_ids": [
+            28,
+            14,
+            35
+        ]
+    },
+    {
+        "id": 970450,
+        "title": "Werewolves",
+        "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+        "overview": "A year after a supermoon\u2019s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+        "genre_ids": [
+            28,
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1035048,
+        "title": "Elevation",
+        "poster_path": "/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg",
+        "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+        "genre_ids": [
+            28,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1005331,
+        "title": "Carry-On",
+        "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+        "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+        "genre_ids": [
+            53,
+            28
+        ]
+    },
+    {
+        "id": 1214667,
+        "title": "Making Squid Game: The Challenge",
+        "poster_path": "/78yTLvtsMntVN1cLfzBuZj870pe.jpg",
+        "overview": "Go behind the scenes and witness how the \"Squid Game\"-inspired reality show transformed from a scripted drama to a cutthroat, nail-biting competition.",
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 933260,
+        "title": "The Substance",
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "genre_ids": [
+            27,
+            878
+        ]
+    },
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ]
+    },
+    {
+        "id": 1010581,
+        "title": "My Fault",
+        "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1235623,
+        "title": "Eye for an Eye 2",
+        "poster_path": "/lxGkinl8TwFdIUffEdTOw95lKL7.jpg",
+        "overview": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
+        "genre_ids": [
+            28,
+            18
+        ]
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "poster_path": "/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            10751
+        ]
+    },
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 762509,
+        "title": "Mufasa: The Lion King",
+        "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+        "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "genre_ids": [
+            12,
+            10751,
+            16
+        ]
+    },
+    {
+        "id": 558449,
+        "title": "Gladiator II",
+        "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ]
+    },
+    {
+        "id": 1241982,
+        "title": "Moana 2",
+        "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ]
+    },
+    {
+        "id": 402431,
+        "title": "Wicked",
+        "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+        "genre_ids": [
+            18,
+            10749,
+            14
+        ]
+    },
+    {
+        "id": 839033,
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "poster_path": "/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
+        "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+        "genre_ids": [
+            16,
+            14,
+            28,
+            12
+        ]
+    },
+    {
+        "id": 1156593,
+        "title": "Your Fault",
+        "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+        "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 845781,
+        "title": "Red One",
+        "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+        "genre_ids": [
+            28,
+            14,
+            35
+        ]
+    },
+    {
+        "id": 970450,
+        "title": "Werewolves",
+        "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+        "overview": "A year after a supermoon\u2019s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+        "genre_ids": [
+            28,
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1035048,
+        "title": "Elevation",
+        "poster_path": "/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg",
+        "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+        "genre_ids": [
+            28,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1005331,
+        "title": "Carry-On",
+        "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+        "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+        "genre_ids": [
+            53,
+            28
+        ]
+    },
+    {
+        "id": 1214667,
+        "title": "Making Squid Game: The Challenge",
+        "poster_path": "/78yTLvtsMntVN1cLfzBuZj870pe.jpg",
+        "overview": "Go behind the scenes and witness how the \"Squid Game\"-inspired reality show transformed from a scripted drama to a cutthroat, nail-biting competition.",
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 933260,
+        "title": "The Substance",
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "genre_ids": [
+            27,
+            878
+        ]
+    },
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ]
+    },
+    {
+        "id": 1010581,
+        "title": "My Fault",
+        "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1235623,
+        "title": "Eye for an Eye 2",
+        "poster_path": "/lxGkinl8TwFdIUffEdTOw95lKL7.jpg",
+        "overview": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
+        "genre_ids": [
+            28,
+            18
+        ]
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "poster_path": "/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            10751
+        ]
+    },
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 762509,
+        "title": "Mufasa: The Lion King",
+        "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+        "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "genre_ids": [
+            12,
+            10751,
+            16
+        ]
+    },
+    {
+        "id": 558449,
+        "title": "Gladiator II",
+        "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ]
+    },
+    {
+        "id": 1241982,
+        "title": "Moana 2",
+        "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ]
+    },
+    {
+        "id": 402431,
+        "title": "Wicked",
+        "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+        "genre_ids": [
+            18,
+            10749,
+            14
+        ]
+    },
+    {
+        "id": 839033,
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "poster_path": "/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
+        "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+        "genre_ids": [
+            16,
+            14,
+            28,
+            12
+        ]
+    },
+    {
+        "id": 1156593,
+        "title": "Your Fault",
+        "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+        "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 845781,
+        "title": "Red One",
+        "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+        "genre_ids": [
+            28,
+            14,
+            35
+        ]
+    },
+    {
+        "id": 970450,
+        "title": "Werewolves",
+        "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+        "overview": "A year after a supermoon\u2019s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+        "genre_ids": [
+            28,
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1035048,
+        "title": "Elevation",
+        "poster_path": "/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg",
+        "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+        "genre_ids": [
+            28,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1005331,
+        "title": "Carry-On",
+        "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+        "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+        "genre_ids": [
+            53,
+            28
+        ]
+    },
+    {
+        "id": 1214667,
+        "title": "Making Squid Game: The Challenge",
+        "poster_path": "/78yTLvtsMntVN1cLfzBuZj870pe.jpg",
+        "overview": "Go behind the scenes and witness how the \"Squid Game\"-inspired reality show transformed from a scripted drama to a cutthroat, nail-biting competition.",
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 933260,
+        "title": "The Substance",
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "genre_ids": [
+            27,
+            878
+        ]
+    },
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ]
+    },
+    {
+        "id": 1010581,
+        "title": "My Fault",
+        "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1235623,
+        "title": "Eye for an Eye 2",
+        "poster_path": "/lxGkinl8TwFdIUffEdTOw95lKL7.jpg",
+        "overview": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
+        "genre_ids": [
+            28,
+            18
+        ]
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "poster_path": "/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            10751
+        ]
+    },
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 762509,
+        "title": "Mufasa: The Lion King",
+        "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+        "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "genre_ids": [
+            12,
+            10751,
+            16
+        ]
+    },
+    {
+        "id": 558449,
+        "title": "Gladiator II",
+        "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ]
+    },
+    {
+        "id": 1241982,
+        "title": "Moana 2",
+        "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ]
+    },
+    {
+        "id": 402431,
+        "title": "Wicked",
+        "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+        "genre_ids": [
+            18,
+            10749,
+            14
+        ]
+    },
+    {
+        "id": 839033,
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "poster_path": "/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
+        "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+        "genre_ids": [
+            16,
+            14,
+            28,
+            12
+        ]
+    },
+    {
+        "id": 1156593,
+        "title": "Your Fault",
+        "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+        "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 845781,
+        "title": "Red One",
+        "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+        "genre_ids": [
+            28,
+            14,
+            35
+        ]
+    },
+    {
+        "id": 970450,
+        "title": "Werewolves",
+        "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+        "overview": "A year after a supermoon\u2019s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+        "genre_ids": [
+            28,
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1035048,
+        "title": "Elevation",
+        "poster_path": "/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg",
+        "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+        "genre_ids": [
+            28,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1005331,
+        "title": "Carry-On",
+        "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+        "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+        "genre_ids": [
+            53,
+            28
+        ]
+    },
+    {
+        "id": 1214667,
+        "title": "Making Squid Game: The Challenge",
+        "poster_path": "/78yTLvtsMntVN1cLfzBuZj870pe.jpg",
+        "overview": "Go behind the scenes and witness how the \"Squid Game\"-inspired reality show transformed from a scripted drama to a cutthroat, nail-biting competition.",
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 933260,
+        "title": "The Substance",
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "genre_ids": [
+            27,
+            878
+        ]
+    },
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ]
+    },
+    {
+        "id": 1010581,
+        "title": "My Fault",
+        "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1235623,
+        "title": "Eye for an Eye 2",
+        "poster_path": "/lxGkinl8TwFdIUffEdTOw95lKL7.jpg",
+        "overview": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
+        "genre_ids": [
+            28,
+            18
+        ]
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "poster_path": "/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            10751
+        ]
+    },
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 762509,
+        "title": "Mufasa: The Lion King",
+        "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+        "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "genre_ids": [
+            12,
+            10751,
+            16
+        ]
+    },
+    {
+        "id": 558449,
+        "title": "Gladiator II",
+        "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ]
+    },
+    {
+        "id": 1241982,
+        "title": "Moana 2",
+        "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ]
+    },
+    {
+        "id": 402431,
+        "title": "Wicked",
+        "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+        "genre_ids": [
+            18,
+            10749,
+            14
+        ]
+    },
+    {
+        "id": 839033,
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "poster_path": "/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
+        "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+        "genre_ids": [
+            16,
+            14,
+            28,
+            12
+        ]
+    },
+    {
+        "id": 1156593,
+        "title": "Your Fault",
+        "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+        "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 845781,
+        "title": "Red One",
+        "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+        "genre_ids": [
+            28,
+            14,
+            35
+        ]
+    },
+    {
+        "id": 970450,
+        "title": "Werewolves",
+        "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+        "overview": "A year after a supermoon\u2019s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+        "genre_ids": [
+            28,
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1035048,
+        "title": "Elevation",
+        "poster_path": "/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg",
+        "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+        "genre_ids": [
+            28,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1005331,
+        "title": "Carry-On",
+        "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+        "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+        "genre_ids": [
+            53,
+            28
+        ]
+    },
+    {
+        "id": 1214667,
+        "title": "Making Squid Game: The Challenge",
+        "poster_path": "/78yTLvtsMntVN1cLfzBuZj870pe.jpg",
+        "overview": "Go behind the scenes and witness how the \"Squid Game\"-inspired reality show transformed from a scripted drama to a cutthroat, nail-biting competition.",
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 933260,
+        "title": "The Substance",
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "genre_ids": [
+            27,
+            878
+        ]
+    },
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ]
+    },
+    {
+        "id": 1010581,
+        "title": "My Fault",
+        "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1235623,
+        "title": "Eye for an Eye 2",
+        "poster_path": "/lxGkinl8TwFdIUffEdTOw95lKL7.jpg",
+        "overview": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
+        "genre_ids": [
+            28,
+            18
+        ]
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "poster_path": "/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            10751
+        ]
+    },
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 762509,
+        "title": "Mufasa: The Lion King",
+        "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+        "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "genre_ids": [
+            12,
+            10751,
+            16
+        ]
+    },
+    {
+        "id": 558449,
+        "title": "Gladiator II",
+        "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ]
+    },
+    {
+        "id": 1241982,
+        "title": "Moana 2",
+        "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ]
+    },
+    {
+        "id": 402431,
+        "title": "Wicked",
+        "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+        "genre_ids": [
+            18,
+            10749,
+            14
+        ]
+    },
+    {
+        "id": 839033,
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "poster_path": "/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
+        "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+        "genre_ids": [
+            16,
+            14,
+            28,
+            12
+        ]
+    },
+    {
+        "id": 1156593,
+        "title": "Your Fault",
+        "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+        "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 845781,
+        "title": "Red One",
+        "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+        "genre_ids": [
+            28,
+            14,
+            35
+        ]
+    },
+    {
+        "id": 970450,
+        "title": "Werewolves",
+        "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+        "overview": "A year after a supermoon\u2019s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+        "genre_ids": [
+            28,
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1035048,
+        "title": "Elevation",
+        "poster_path": "/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg",
+        "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+        "genre_ids": [
+            28,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1005331,
+        "title": "Carry-On",
+        "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+        "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+        "genre_ids": [
+            53,
+            28
+        ]
+    },
+    {
+        "id": 1214667,
+        "title": "Making Squid Game: The Challenge",
+        "poster_path": "/78yTLvtsMntVN1cLfzBuZj870pe.jpg",
+        "overview": "Go behind the scenes and witness how the \"Squid Game\"-inspired reality show transformed from a scripted drama to a cutthroat, nail-biting competition.",
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 933260,
+        "title": "The Substance",
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "genre_ids": [
+            27,
+            878
+        ]
+    },
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ]
+    },
+    {
+        "id": 1010581,
+        "title": "My Fault",
+        "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1235623,
+        "title": "Eye for an Eye 2",
+        "poster_path": "/lxGkinl8TwFdIUffEdTOw95lKL7.jpg",
+        "overview": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
+        "genre_ids": [
+            28,
+            18
+        ]
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "poster_path": "/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            10751
+        ]
+    },
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 762509,
+        "title": "Mufasa: The Lion King",
+        "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+        "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "genre_ids": [
+            12,
+            10751,
+            16
+        ]
+    },
+    {
+        "id": 558449,
+        "title": "Gladiator II",
+        "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ]
+    },
+    {
+        "id": 1241982,
+        "title": "Moana 2",
+        "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ]
+    },
+    {
+        "id": 402431,
+        "title": "Wicked",
+        "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+        "genre_ids": [
+            18,
+            10749,
+            14
+        ]
+    },
+    {
+        "id": 839033,
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "poster_path": "/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
+        "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+        "genre_ids": [
+            16,
+            14,
+            28,
+            12
+        ]
+    },
+    {
+        "id": 1156593,
+        "title": "Your Fault",
+        "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+        "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 845781,
+        "title": "Red One",
+        "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+        "genre_ids": [
+            28,
+            14,
+            35
+        ]
+    },
+    {
+        "id": 970450,
+        "title": "Werewolves",
+        "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+        "overview": "A year after a supermoon\u2019s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+        "genre_ids": [
+            28,
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1035048,
+        "title": "Elevation",
+        "poster_path": "/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg",
+        "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+        "genre_ids": [
+            28,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1005331,
+        "title": "Carry-On",
+        "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+        "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+        "genre_ids": [
+            53,
+            28
+        ]
+    },
+    {
+        "id": 1214667,
+        "title": "Making Squid Game: The Challenge",
+        "poster_path": "/78yTLvtsMntVN1cLfzBuZj870pe.jpg",
+        "overview": "Go behind the scenes and witness how the \"Squid Game\"-inspired reality show transformed from a scripted drama to a cutthroat, nail-biting competition.",
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 933260,
+        "title": "The Substance",
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "genre_ids": [
+            27,
+            878
+        ]
+    },
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ]
+    },
+    {
+        "id": 1010581,
+        "title": "My Fault",
+        "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1235623,
+        "title": "Eye for an Eye 2",
+        "poster_path": "/lxGkinl8TwFdIUffEdTOw95lKL7.jpg",
+        "overview": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
+        "genre_ids": [
+            28,
+            18
+        ]
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "poster_path": "/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            10751
+        ]
+    },
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 762509,
+        "title": "Mufasa: The Lion King",
+        "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+        "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "genre_ids": [
+            12,
+            10751,
+            16
+        ]
+    },
+    {
+        "id": 558449,
+        "title": "Gladiator II",
+        "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ]
+    },
+    {
+        "id": 1241982,
+        "title": "Moana 2",
+        "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ]
+    },
+    {
+        "id": 402431,
+        "title": "Wicked",
+        "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+        "genre_ids": [
+            18,
+            10749,
+            14
+        ]
+    },
+    {
+        "id": 839033,
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "poster_path": "/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
+        "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+        "genre_ids": [
+            16,
+            14,
+            28,
+            12
+        ]
+    },
+    {
+        "id": 1156593,
+        "title": "Your Fault",
+        "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+        "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 845781,
+        "title": "Red One",
+        "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+        "genre_ids": [
+            28,
+            14,
+            35
+        ]
+    },
+    {
+        "id": 970450,
+        "title": "Werewolves",
+        "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+        "overview": "A year after a supermoon\u2019s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+        "genre_ids": [
+            28,
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1035048,
+        "title": "Elevation",
+        "poster_path": "/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg",
+        "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+        "genre_ids": [
+            28,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1005331,
+        "title": "Carry-On",
+        "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+        "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+        "genre_ids": [
+            53,
+            28
+        ]
+    },
+    {
+        "id": 1214667,
+        "title": "Making Squid Game: The Challenge",
+        "poster_path": "/78yTLvtsMntVN1cLfzBuZj870pe.jpg",
+        "overview": "Go behind the scenes and witness how the \"Squid Game\"-inspired reality show transformed from a scripted drama to a cutthroat, nail-biting competition.",
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 933260,
+        "title": "The Substance",
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "genre_ids": [
+            27,
+            878
+        ]
+    },
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ]
+    },
+    {
+        "id": 1010581,
+        "title": "My Fault",
+        "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1235623,
+        "title": "Eye for an Eye 2",
+        "poster_path": "/lxGkinl8TwFdIUffEdTOw95lKL7.jpg",
+        "overview": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
+        "genre_ids": [
+            28,
+            18
+        ]
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "poster_path": "/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            10751
+        ]
+    },
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 762509,
+        "title": "Mufasa: The Lion King",
+        "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+        "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "genre_ids": [
+            12,
+            10751,
+            16
+        ]
+    },
+    {
+        "id": 558449,
+        "title": "Gladiator II",
+        "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ]
+    },
+    {
+        "id": 1241982,
+        "title": "Moana 2",
+        "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ]
+    },
+    {
+        "id": 402431,
+        "title": "Wicked",
+        "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+        "genre_ids": [
+            18,
+            10749,
+            14
+        ]
+    },
+    {
+        "id": 839033,
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "poster_path": "/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
+        "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+        "genre_ids": [
+            16,
+            14,
+            28,
+            12
+        ]
+    },
+    {
+        "id": 1156593,
+        "title": "Your Fault",
+        "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+        "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 845781,
+        "title": "Red One",
+        "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+        "genre_ids": [
+            28,
+            14,
+            35
+        ]
+    },
+    {
+        "id": 970450,
+        "title": "Werewolves",
+        "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+        "overview": "A year after a supermoon\u2019s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+        "genre_ids": [
+            28,
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1035048,
+        "title": "Elevation",
+        "poster_path": "/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg",
+        "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+        "genre_ids": [
+            28,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1005331,
+        "title": "Carry-On",
+        "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+        "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+        "genre_ids": [
+            53,
+            28
+        ]
+    },
+    {
+        "id": 1214667,
+        "title": "Making Squid Game: The Challenge",
+        "poster_path": "/78yTLvtsMntVN1cLfzBuZj870pe.jpg",
+        "overview": "Go behind the scenes and witness how the \"Squid Game\"-inspired reality show transformed from a scripted drama to a cutthroat, nail-biting competition.",
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 933260,
+        "title": "The Substance",
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "genre_ids": [
+            27,
+            878
+        ]
+    },
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ]
+    },
+    {
+        "id": 1010581,
+        "title": "My Fault",
+        "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1235623,
+        "title": "Eye for an Eye 2",
+        "poster_path": "/lxGkinl8TwFdIUffEdTOw95lKL7.jpg",
+        "overview": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
+        "genre_ids": [
+            28,
+            18
+        ]
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "poster_path": "/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            10751
+        ]
+    }
+]

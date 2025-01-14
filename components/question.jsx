@@ -2,10 +2,12 @@
 import { useState, useEffect, useRef } from 'react';
 import '../styles/question.css';
 import '../styles/loading-animation.css';
+import '../styles/dropup.css';
+import '../styles/toggle.css';
 import Confitte from "react-confetti";
-import movies from './movies';
 import { RiSkipRightLine } from "react-icons/ri";
 import React from 'react';
+import moviesData from './movies.json';
 
 
 function OptionButton({ option, onOptionClick, optionState }) {
@@ -28,6 +30,7 @@ function WinningAnimation() {
     )
 }
 
+
 function TryAgainAnimation() {
     return (
         <img src="/try-again.gif" alt='Try again' />
@@ -45,10 +48,20 @@ export default function Question() {
     const [totalQuestions, setTotalQuestions] = useState(0);
     const [totalCorrectQuestions, setTotalCorrectQuestions] = useState(0);
 
+    const [movie, setMovie] = useState({});
+
+
     // white - not choosen
     // green - correct
     // red - incorrect
     const [optionsState, setOptionsState] = useState(Array(4).fill('white'))
+
+    function MoviePoster({ posterPath }) {
+        const path = "https://image.tmdb.org/t/p/original/" + movie.poster_path;
+        return (
+            <img src={path} alt={path} height={300} width={300} />
+        )
+    }
 
     function resetStates() {
         setOptionsState(Array(4).fill('white'));
@@ -59,17 +72,6 @@ export default function Question() {
 
     const showDialog = (correct) => {
         if (!dialogRef.current) return;
-        var audio = null; 
-
-        var filePath = null;
-        if (correct) {
-            filePath = '/button-click-3.mp3'
-        } else {
-            filePath = '/wrong-answer.mp3'
-        }
-
-        audio = new Audio(filePath);
-        audio.play();
         dialogRef.current.showModal();
     }
 
@@ -86,6 +88,18 @@ export default function Question() {
             setTotalCorrectQuestions(totalCorrectQuestions + 1);
         }
 
+        var audio = null; 
+
+        var filePath = null;
+        if (option === correctAnswer) {
+            filePath = '/button-click-3.mp3'
+        } else {
+            filePath = '/wrong-answer.mp3'
+        }
+
+        audio = new Audio(filePath);
+        audio.play();
+
         // make the correct button green and rest red
         // find the index of the correct option
         const correctIndex = options.indexOf(correctAnswer);
@@ -98,8 +112,6 @@ export default function Question() {
         // update total questions solved 
         setTotalQuestions(totalQuestions + 1);
 
-        // console.log(options);
-        // console.log(optionsState_);
         setOptionsState(optionsState_);
 
         setIsCorrent(option === correctAnswer)
@@ -114,17 +126,21 @@ export default function Question() {
         // reset states for new question
         resetStates();
 
-        const randomIndex = Math.floor(Math.random() * 101); 
+        // select a random index 
+        const randomIndex = Math.floor(Math.random() * moviesData.length); 
 
         setIsLoading(true);
         await fetch('/api/completion', {
             method: 'POST',
             body: JSON.stringify({
-                prompt: "The movie name is " + movies[randomIndex],
+                prompt: "The movie name is " + moviesData[randomIndex].title,
             }),
         }).then(response => {
             response.json().then(json => {
                 setGeneration(json);
+
+                // set movie as a state
+                setMovie(moviesData[randomIndex]);
 
                 // options as a state array
                 var options_ = json.options;
@@ -151,7 +167,7 @@ export default function Question() {
         sessionStorage.setItem('totalQuestionSolved', totalQuestions);
         const questionSolved = sessionStorage.getItem('totalQuestionSolved');
 
-        console.log('stored value', questionSolved);
+        console.log("total");
 
     }, [totalQuestions]);
 
@@ -162,15 +178,20 @@ export default function Question() {
         const correctQuestions = sessionStorage.getItem('totalCorrectQuestionSolved');
         setTotalCorrectQuestions(correctQuestions ? parseInt(correctQuestions) : 0);
 
+        console.log("once");
+
+        console.log(moviesData);
+
         fetchQuestion();
     }, []);
 
     return (
         <div id='question-container'>
 
-            <dialog ref={dialogRef}>
+            <dialog ref={dialogRef} className={isCorrect ? 'dialog-green' : 'dialog-red'}>
                 <form action="/submit" method="dialog">
-                    {isCorrect ? <WinningAnimation /> : <TryAgainAnimation />}
+                    <MoviePoster />
+                    { movie.overview }
                     <button
                         className='custom-btn btn-16-white'
                         onClick={fetchQuestion}
@@ -203,11 +224,16 @@ export default function Question() {
                 }
             </div>
 
-
             <div id="stats-container">
                 <div id="stats">
                     {totalCorrectQuestions} / {totalQuestions}
                 </div>
+
+                <label class="toggle-container">
+                    <input type="checkbox" />
+                    <span class="slider"></span>
+                </label>
+
                 <RiSkipRightLine size={50} className='gradient-icon' onClick={fetchQuestion}/>
             </div>
         </div>

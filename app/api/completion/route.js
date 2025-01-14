@@ -8,7 +8,7 @@ export async function POST(req) {
 
   const result = await generateObject({
     model: google('gemini-1.5-flash'),
-    system: 'You are a creative writer crafting quirky, intriguing movie descriptions with enough clues for guessing the movie name. Provide four multiple-choice options (1, 2, 3, 4) and clearly mark the correct option number.',
+    system: 'You are a creative writer crafting funny, roasting movie descriptions with enough clues for guessing the movie name. Provide four multiple-choice options (1, 2, 3, 4) and clearly mark the correct option number.',
     prompt,
     schema: z.object({
           question: z.string().describe('Description of the movie.'),

@@ -1,0 +1,33 @@
+
+.toggle-container {
+    position: relative;
+    width: 60px;
+    height: 30px;
+    border: 2px solid white; /* Border for the container */
+    border-radius: 50px;
+    background: transparent; /* Transparent background */
+    cursor: pointer;
+}
+
+.toggle-container input {
+    display: none;
+}
+
+.slider {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    height: 22px;
+    width: 22px;
+    border: 2px solid white; /* Border for the slider */
+    border-radius: 50%;
+    background: transparent; /* Transparent background */
+    transition: transform 0.3s ease-in-out;
+}
+
+input:checked+.slider {
+    transform: translateX(30px); /* Move the slider to the right */
+    background-color: #fff; /* Bright knob remains */
+    box-shadow: 0 0 10px #fff, 0 0 10px #fff inset; /* Bright green glow */
+}
+ 
