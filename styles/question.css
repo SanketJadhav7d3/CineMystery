@@ -38,6 +38,11 @@ dialog > img {
     box-shadow: 0 0 10px rgb(255, 0, 0), 0 0 10px rgb(255, 0, 0) inset; 
 }
 
+/* pointer */
+.pointer {
+    cursor: pointer;
+}
+
 
 /* question container */
 #question-container {
@@ -57,6 +62,7 @@ dialog > img {
     align-items: center;
     justify-content: center;
     padding: 10px 55px;
+    user-select: none;
 }
 
 #options {

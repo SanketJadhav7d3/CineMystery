@@ -241,12 +241,12 @@ export default function Question() {
 
                 <label class="toggle-container">
                     <input type="checkbox" checked={isMusic} onChange={toggleMusic}/>
-                    <span class="slider">
+                    <span className="slider">
                         {isMusic ? <FiVolume2 color='#000' /> : <FiVolumeX />}
                     </span>
                 </label>
 
-                <RiSkipRightLine size={50} className='gradient-icon' onClick={fetchQuestion}/>
+                <RiSkipRightLine size={50} className='gradient-icon pointer' onClick={fetchQuestion}/>
             </div>
         </div>
     );

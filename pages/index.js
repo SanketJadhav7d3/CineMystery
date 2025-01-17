@@ -47,7 +47,8 @@ export default function Index() {
             flex: 0.8,
             display: "flex",
             justifyContent: 'center',
-            alignItems: 'center'
+            alignItems: 'center',
+            userSelect: 'none'
           }}
         >
           <div className={`item-1 lobster-regular ${playAnimation ? 'text-flicker-in-glow' : 'glow-effect'}`}>C</div>
