@@ -54,3 +54,15 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+# UI
+
+![image](https://github.com/user-attachments/assets/7e6eccce-d3f8-4dd9-87bb-e750309c31b4)
+
+![image](https://github.com/user-attachments/assets/70967cc3-9cbf-4206-ace9-4d83633985d4)
+
+![image](https://github.com/user-attachments/assets/88f0d575-e248-4275-884a-33adf1a4bb30)
+
+
+
+
