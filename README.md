@@ -2,6 +2,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Google Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TMDb API](https://img.shields.io/badge/TMDb%20API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)
 
 # CineMystery 🎬
 
