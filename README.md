@@ -1,3 +1,8 @@
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Google Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TMDb API](https://img.shields.io/badge/TMDb%20API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)
 
 # CineMystery 🎬
 
@@ -50,3 +55,15 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+# UI
+
+![image](https://github.com/user-attachments/assets/7e6eccce-d3f8-4dd9-87bb-e750309c31b4)
+
+![image](https://github.com/user-attachments/assets/70967cc3-9cbf-4206-ace9-4d83633985d4)
+
+![image](https://github.com/user-attachments/assets/88f0d575-e248-4275-884a-33adf1a4bb30)
+
+
+
+
