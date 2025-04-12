@@ -77,6 +77,22 @@ export default function Question() {
 
     const dialogRef = useRef(null);
 
+    useEffect(() => {
+      const dialog = dialogRef.current;
+      if (!dialog) return;
+
+      // Handler to block the Esc key
+      const handleCancel = (event) => {
+        event.preventDefault();
+      };
+
+      dialog.addEventListener('cancel', handleCancel);
+      return () => {
+        dialog.removeEventListener('cancel', handleCancel);
+      };
+    }, []);
+
+
     const showDialog = (correct) => {
         if (!dialogRef.current) return;
         dialogRef.current.showModal();
@@ -125,6 +141,7 @@ export default function Question() {
         setOptionsState(optionsState_);
 
         setIsCorrent(option === correctAnswer)
+    
         // show dialog
         showDialog(option === correctAnswer);
     }
