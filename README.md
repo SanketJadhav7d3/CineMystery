@@ -58,7 +58,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 # UI
 
-![image](https://github.com/user-attachments/assets/7e6eccce-d3f8-4dd9-87bb-e750309c31b4)
+![image](https://github.com/user-attachments/assets/079d2fa2-9cce-45e1-859a-e2f8f07e8861)
 
 ![image](https://github.com/user-attachments/assets/70967cc3-9cbf-4206-ace9-4d83633985d4)
 
